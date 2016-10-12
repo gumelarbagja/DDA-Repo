@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/bagjagumelar/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/bagjagumelar/Downloads/AndroidRetrofitExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3.1_05389d8f6f30bb26dbbc19874f659322ac327a6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bagjagumelar/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/bagjagumelar/Downloads/AndroidRetrofitExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-1.9.0_c56aa35e06158988bfb024327367bf78bfe0e5c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bagjagumelar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/bagjagumelar/Downloads/AndroidRetrofitExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.0_bace448fbf5b304c634c0466315595e1948fc795/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bagjagumelar/Downloads/AndroidRetrofitExample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6931c32f33adf8fe77a87393dff1b89abe1fb0bf">
+        <dex dex="/Users/bagjagumelar/Downloads/AndroidRetrofitExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_09275d77ff98952170715c8ab811857f7d3db035/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bagjagumelar/Downloads/AndroidRetrofitExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/bagjagumelar/Downloads/AndroidRetrofitExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.0_79766d814d8ace942ecb1d653513c3a7409c5d39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bagjagumelar/Downloads/AndroidRetrofitExample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ceaab946b7dee65f042e603ea97f1aaf7697faa">
+        <dex dex="/Users/bagjagumelar/Downloads/AndroidRetrofitExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_802f38c06dd06b94b431ef91e66cdd511ecc3143/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bagjagumelar/Downloads/AndroidRetrofitExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/bagjagumelar/Downloads/AndroidRetrofitExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.0_037caf117971564bca76343f488c3b6132efafb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bagjagumelar/Downloads/AndroidRetrofitExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/bagjagumelar/Downloads/AndroidRetrofitExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.0_b44c3e036308c853f966bbe7726f1019f5537bd6/classes.dex" />
+    </item>
+
+</items>
